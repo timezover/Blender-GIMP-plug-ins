@@ -2,7 +2,7 @@
 
 ## Grass animation (Blender)
 
-This addon allows for the generation of grass and its animation (see video).
+This addon allows for the generation of grass and its animation.
 
 ### Installation Instructions
 
@@ -23,11 +23,10 @@ Find where the Python interpreter for Blender is located (typically C:\Program F
 Then, run the following command in cmd: `"path\to\blender.exe" --background --python "path\to\3dTest.py"`.
 
 ![image blender](3D/grass.png)
-![video blender](3D/Showcase Blender.mp4)
 
 ## Edge detection (GIMP)
 
-This addon allows for edge detection on images based on selected parameters (see video).
+This addon allows for edge detection on images based on selected parameters.
 
 ### Postup instalace
 
@@ -49,5 +48,4 @@ Unfortunately, it does not work on Windows or it is too difficult to set up. :(
 Navigate to the `tests` directory and run the following command: `gimp -i -b '(python-fu-2dTest RUN-NONINTERACTIVE)' -b '(gimp-quit 0)'`
 
 ![image gimp](2D/Showcase GIF.gif)
-![video gimp](2D/Showcase GIMP.mp4)
 
