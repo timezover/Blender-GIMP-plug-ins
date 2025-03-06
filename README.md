@@ -11,7 +11,7 @@ This addon allows for the generation of grass and its animation.
 - 3) Open Blender and go to `Edit -> Preferences -> Addons` and install the plugin (the .py file).
 - 4) A new panel named 'Grass' will appear on the right side of the 3D scene editor.
 
-### Testování
+### Testing
 
 * Linux
 
@@ -28,7 +28,7 @@ Then, run the following command in cmd: `"path\to\blender.exe" --background --py
 
 This addon allows for edge detection on images based on selected parameters.
 
-### Postup instalace
+### Installation Instructions
 
 - 1) Download GIMP version 2.10.38 or newer.
 - 2) Download the plug-in.
@@ -37,7 +37,7 @@ This addon allows for edge detection on images based on selected parameters.
 - 5) Restart GIMP.
 - 6) In the menu `Filters` will appear option `Convolution`
 
-### Testování
+### Testing
 
 * Windows
 
