@@ -23,7 +23,7 @@ Find where the Python interpreter for Blender is located (typically C:\Program F
 Then, run the following command in cmd: `"path\to\blender.exe" --background --python "path\to\3dTest.py"`.
 
 ![image blender](3D/grass.png)
-![video blender](3D/Ukazka Blender.mp4)
+![video blender](3D/Showcase Blender.mp4)
 
 ## Edge detection (GIMP)
 
@@ -48,6 +48,6 @@ Unfortunately, it does not work on Windows or it is too difficult to set up. :(
 
 Navigate to the `tests` directory and run the following command: `gimp -i -b '(python-fu-2dTest RUN-NONINTERACTIVE)' -b '(gimp-quit 0)'`
 
-![image gimp](2D/Ukazka GIF.gif)
-![video gimp](2D/Ukazka GIMP.mp4)
+![image gimp](2D/Showcase GIF.gif)
+![video gimp](2D/Showcase GIMP.mp4)
 
