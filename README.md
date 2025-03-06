@@ -47,5 +47,5 @@ Unfortunately, it does not work on Windows or it is too difficult to set up. :(
 
 Navigate to the `tests` directory and run the following command: `gimp -i -b '(python-fu-2dTest RUN-NONINTERACTIVE)' -b '(gimp-quit 0)'`
 
-![image gimp](2D/Showcase GIF.gif)
+![image gimp](2D/Showcase%20GIF.gif)
 
